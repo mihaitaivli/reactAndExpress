@@ -27,6 +27,8 @@
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
     "node-jsx": "^0.13.3",
     "react-tools": "^0.13.3",
     "reactify": "^1.1.1",
