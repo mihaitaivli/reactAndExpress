@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mihaitaivli/reactAndExpress#readme",
   "dependencies": {
     "babel": "^6.5.2",
+    "browser-sync": "^2.12.3",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "guid": "0.0.12",
