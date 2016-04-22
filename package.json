@@ -16,10 +16,13 @@
     "express",
     "nodejs"
   ],
-  "author": "Mihaita Ivli",
+  "author": "mihaitaivli@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mihaitaivli/reactAndExpress/issues"
   },
-  "homepage": "https://github.com/mihaitaivli/reactAndExpress#readme"
+  "homepage": "https://github.com/mihaitaivli/reactAndExpress#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
