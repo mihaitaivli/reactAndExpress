@@ -1,0 +1,24 @@
+{
+  "name": "react_express",
+  "description": "Simple express application with React front-end.",
+  "main": "index.js",
+  "authors": [
+    "mihaitaivli@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "mongoDB",
+    "express",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/mihaitaivli/reactAndExpress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
